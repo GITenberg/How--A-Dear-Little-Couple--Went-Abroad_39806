@@ -1,0 +1,39 @@
+_repo: How--A-Dear-Little-Couple--Went-Abroad_39806
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Clifford, Aimée G.
+    alias: Clifford, Aimee G.
+    gutenberg_agent_id: '40204'
+    url: http://www.gutenberg.org/2009/agents/40204
+covers:
+- cover_type: archival
+  image_path: 39806-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brine, Mary D. (Mary Dow)
+    alias: Brine, Mary Dow Northam
+    gutenberg_agent_id: '3030'
+    url: http://www.gutenberg.org/2009/agents/3030
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39806'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Playmates -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Italy -- Description and travel -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Parent and child -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: How "A Dear Little Couple" Went Abroad
+url: http://www.gutenberg.org/ebooks/39806
